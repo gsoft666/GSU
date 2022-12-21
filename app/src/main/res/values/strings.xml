@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GSU</string>
+    <string name="aplicacion_desinstalada">Aplicacion desinstalada</string>
+    <string name="descargando_app">Descargando app %1$s</string>
+    <string name="logo_gs">Logo GS</string>
+    <string name="administrador_de_aplicaciones_n_gsoft">Administrador de aplicaciones\n GSOFT</string>
+    <string name="gs_logo_completo">GS Logo completo</string>
+    <string name="GSOFT">GSOFT</string>
+    <string name="actualizarApp">Actualizar aplicación</string>
+    <string name="ok">Aceptar</string>
+    <string name="versionApp">Versión</string>
+    <string name="aceptar">1: "Aceptar" en el primer diálogo \n2: "Aceptar" en el segundo diálogo</string>
+    <string name="aceptarBtn">Aceptar</string>
+    <string name="admin_menu">Admin menu</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="configuracion">Configuración</string>
+    <string name="reestablecer_aplicacion">Reestablecer aplicación</string>
+    <string name="seleccione_una_aplicacion">Seleccione una aplicación</string>
+</resources>
